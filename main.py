@@ -17,7 +17,7 @@ def exercicio_1():
 exercicio_1()
 
 #########################################################################################
-# Exercício de fixação 1:
+# Exercício de fixação 2:
 # Elabore um algoritmo que solicite ao usuário seu ano de nascimento e calcule sua idade
 # com relação ao ano de 2020, sendo que o usuário já fez aniversário nesse ano.
 
@@ -90,7 +90,7 @@ def exercicio_4():
 exercicio_4()
 
 #########################################################################################
-# Exercício de fixação 4:
+# Exercício de fixação 5:
 # Elabore um algoritmo que solicits o nome de um produto, seu valor e quantidade,
 # informando o valor de compra calculado.
 
